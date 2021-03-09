@@ -141,7 +141,8 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online via Zoom. You will recieve instructions via email, for the Zoom meeting details, once you have registered.
+  <strong>Where:</strong> This training will take place online via Zoom. Once you register for the workshop, 
+  you will recieve Zoom meeting details with other important information and instructions via email.
 </p>
 {% endif %}
 
